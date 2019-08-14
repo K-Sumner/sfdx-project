@@ -41,7 +41,7 @@
     <name>CustomMetadata</name>
   </types>
   <types>
-    <members>CustomLabels</members>
+    <members>*</members>
     <name>CustomLabels</name>
   </types>
   <types>
